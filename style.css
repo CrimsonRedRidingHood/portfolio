@@ -100,12 +100,12 @@ h2
     margin-top: 15px;
 }
 
-.course-title
+.project-title
 {
     font-size: 1.5em;   
 }
 
-span.course-title
+span.project-title
 {
     display: block;
 }
@@ -119,6 +119,12 @@ a:link, a:visited
 a:link:active, a:visited:active
 {
     color: inherit;
+}
+
+a.common-link
+{
+    color: blue;
+    text-decoration: underline;
 }
 
 ul
